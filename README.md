@@ -1,20 +1,41 @@
 # Sysslan Java Internship - Level 1
 
-This repository contains all Level 1 Java Development tasks completed during my internship at Sysslan IT Solutions.
+This repository contains my solutions for the Level 1 Java Development Internship tasks assigned by Sysslan IT Solutions.
 
 ## Level 1 Tasks
 
-- Task 1 - Number Grid Search
-- Task 2 - Temperature Converter
-- Task 3 - Student Grade Calculator
-- Task 4 - Random Password Generator
+- Task-01 - Number Grid Search (Completed)
+- Task-02 - Temperature Converter (Completed)
+- Task-03 - Student Grade Average Calculator (Completed)
+- Task-04 - Random Password Generator (In Progress)
+
+---
 
 ## Technologies Used
 
 - Java
 - Git
 - GitHub
+- Visual Studio Code
+
+---
+
+## Repository Structure
+
+```text
+sysslan-java-level-1
+│
+├── Task-01-NumberGridSearch
+├── Task-02-TemperatureConverter
+├── Task-03-StudentGradeAverage
+└── Task-04-RandomPasswordGenerator
+```
+
+---
 
 ## Author
 
-Kamlesh Purohit
+**Kamlesh Purohit**
+
+Java Development Intern  
+Sysslan IT Solutions
