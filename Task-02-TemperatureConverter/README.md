@@ -1,9 +1,9 @@
 # Task-02: Temperature Converter
 
-## 📌 Objective
+##  Objective
 Develop a Java console application that converts temperature values between Celsius, Fahrenheit, and Kelvin.
 
-## 🚀 Features
+##  Features
 - Convert Celsius to Fahrenheit
 - Convert Celsius to Kelvin
 - Convert Fahrenheit to Celsius
@@ -13,13 +13,13 @@ Develop a Java console application that converts temperature values between Cels
 - Handles same unit conversion
 - Accepts both uppercase and lowercase unit inputs
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Java
 - Scanner Class
 - Methods
 - Conditional Statements (if-else)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Task-02-TemperatureConverter
@@ -29,7 +29,7 @@ Task-02-TemperatureConverter
 └── README.md
 ```
 
-## ▶️ Sample Input
+##  Sample Input
 
 ```
 Enter Temperature: 65
@@ -37,13 +37,13 @@ Enter Source Unit (C/F/K): C
 Enter Target Unit (C/F/K): F
 ```
 
-## ✅ Sample Output
+##  Sample Output
 
 ```
 Converted Temperature: 149.0 F
 ```
 
-## 📖 Concepts Practiced
+##  Concepts Practiced
 - Java Methods
 - User Input using Scanner
 - Conditional Logic
