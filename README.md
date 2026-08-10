@@ -7,7 +7,7 @@ This repository contains my solutions for the Level 1 Java Development Internshi
 - Task-01 - Number Grid Search (Completed)
 - Task-02 - Temperature Converter (Completed)
 - Task-03 - Student Grade Average Calculator (Completed)
-- Task-04 - Random Password Generator (In Progress)
+- Task-04 - Random Password Generator (Completed)
 
 ---
 
